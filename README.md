@@ -6,7 +6,7 @@ Please attach your responses in a separate file in the job ad.
 
 ---
 ## Data Science Challenge
-In the datascience folder you will find a stores.csv dataset. Using this dataset you are to build a linear model that predicts store sales. 
+In this repository, you will find a stores.csv dataset. Using this dataset you are to build a linear model that predicts store sales. 
 
 **Your response should tell us which attributes you used in the model and the r2 value of your model.**
 
