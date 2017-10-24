@@ -11,7 +11,7 @@ In the datascience folder you will find a stores.csv dataset. Using this dataset
 **Your response should tell us which attributes you used in the model and the r2 value of your model.**
 
 * Store - the store number
-* Date - the week
+* Date - the week ending date
 * IsHoliday - whether the week is a special holiday week
 * Weekly_Sales -  sales for the store
 * Size - the size of the store
