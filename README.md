@@ -24,8 +24,8 @@ In this repository, you will find a stores.csv dataset. Using this dataset you a
 * Population\_over\_65 - population over 65 in the region
 * Population\_under\_18 - population under 18 in the region
 
-## Web Developer Challenge
+## Web dev Challenge
 
-Provide in jfiddle a working example of a set of traffic lights with red, amber and green lights. The transition from green to red must go through a 3 second amber status. 
+Provide in jfiddle a working example of a set of traffic lights with red, amber and green lights. The transition from green to red must go through a 3 second amber status. The more creative, the more bonus points ;-)
 
 **Please attach your jsfiddle url in your challenge response attachment.**
