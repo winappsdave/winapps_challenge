@@ -1,7 +1,7 @@
 # Winapps Challenge
 
 ## Instructions
-This is a short 30 minute challenge consisting of a data science component and a web dev component. 
+This is a short 30 minutes challenge consisting of a data science component and a web dev component. 
 Please attach your responses in a separate file in the job ad.
 
 ---
@@ -26,6 +26,6 @@ In this repository, you will find a stores.csv dataset. Using this dataset you a
 
 ## Web dev Challenge
 
-Provide in jfiddle a working example of a set of traffic lights with red, amber and green lights. The transition from green to red must go through a 3 second amber status. The more creative, the more bonus points ;-)
+Provide in jsfiddle a working example of a set of traffic lights with red, amber and green lights. The transition from green to red must go through a 3 second amber status. The more creative, the more bonus points ;-)
 
 **Please attach your jsfiddle url in your challenge response attachment.**
